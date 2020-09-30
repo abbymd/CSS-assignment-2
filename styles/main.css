@@ -1,9 +1,9 @@
 body {
-    background: #333;
-    color: #fff;
+    background: #666;
+    color: #ccc;
     font-family: Calibri, Arial, sans-serif;
-    font-size: 150%;
-    margin: 0; /* keep this */
+    font-size: 200%;
+    margin: 1; /* keep this */
 }
 
 /* ----- suggested colors -----
@@ -25,5 +25,5 @@ body {
 
 /* --- links and nav --- */
 
-a { color: #379CB2; }
-a:hover { color: #82E8FF; }
+a { color: #coral2; }
+a:hover { color: #FFD5AE; }
