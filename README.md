@@ -1,6 +1,6 @@
 # CSS Assignment 2 (Assignment 4)
 
-This repo contains your assignment starter files, including three images.
+This repository contains your assignment starter files, including three images.
 
 1. **Fork** this repo (make sure you are logged into GitHub).
 
@@ -72,4 +72,5 @@ If you need to fix anything after your first commit-and-sync, you will need to c
 
 ## Check the rubric and submit in Canvas
 
-Be sure to check the rubric in Canvas and **SUBMIT THE URL of your GitHub repo** there to complete this assignment!
+Be sure to check the rubric in Canvas and **SUBMIT THE URL of your GitHub repository** there to complete this assignment!!!
+See You Soon
